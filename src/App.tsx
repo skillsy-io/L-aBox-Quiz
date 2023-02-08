@@ -6,7 +6,8 @@ function App() {
 
   return (
     <div className="App">
-    quiz
+    <h1>quiz</h1>
+      <p>pas de titre juste vérifie la police stp</p>
     </div>
   )
 }
